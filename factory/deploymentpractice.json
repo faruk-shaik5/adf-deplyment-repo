@@ -1,0 +1,15 @@
+{
+	"name": "deploymentpractice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2419c055-1778-4faf-a1ab-05acccc6ca44",
+		"tenantId": "d9bc2702-d7a0-498e-b822-d337ed73f82b"
+	}
+}
